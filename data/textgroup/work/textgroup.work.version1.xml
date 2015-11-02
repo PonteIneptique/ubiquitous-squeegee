@@ -27,7 +27,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </fileDesc>
     <encodingDesc>
       <refsDecl n="CTS">
-        <cRefPattern matchPattern="([\w\d]+).([\w\d]+)" n="hemistich" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='$1']/tei:seg[@n='$2']"/>
+        <cRefPattern matchPattern="([\w\d]+).([\w\d]+)" n="hemistich" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='$1']/tei:seg[@n='$2'])"/>
         <cRefPattern matchPattern="([\w\d]+)" n="line" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='$1'])"/>
       </refsDecl>
     </encodingDesc>
