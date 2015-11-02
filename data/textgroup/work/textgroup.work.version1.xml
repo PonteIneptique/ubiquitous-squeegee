@@ -19,6 +19,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   </teiHeader>
   <text>
     <body>
+      <div type="edition" xml:lang="per" n="urn:cts:farsiLit:textgroup.work.version1">
       <div n="title" type="title">&#13;
 قصیدهٔ شمارهٔ ۱ - در مدح علاء الدین ابوعلی الحسن الشریف</div>
       <div n="1" type="line">
@@ -185,6 +186,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <div n="a" type="hemistich">بر استقامت حال تو بر بسیط زمین</div>
         <div n="b" type="hemistich">بر آسمان کف کف الخضیب کرده دعا</div>
       </div>
+    </div>
     </body>
   </text>
 </TEI>
