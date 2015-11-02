@@ -14,10 +14,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       </publicationStmt>
       <sourceDesc>Persian Digital Libary (PDL) texts were sourced(with permission) from the html files of the Ganjoor corpus(2015), and were cleaned, edited, and revised by the Roshan Institute Persian Digital Humanities team at the University of Maryland College Park<source><site>http://ganjoor.net/</site><url>http://ganjoor.net/anvari/divan-anvari/ghaside-anvari/sh1/</url><id>post-15910</id></source></sourceDesc>
     </fileDesc>
-    <refsDecl n="CTS">
-      <cRefPattern matchPattern="([\w\d]+).([\w\d]+)" n="hemistich" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']//tei:div[@n='$2']"/>
-      <cRefPattern matchPattern="([\w\d]+)" n="line" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-    </refsDecl>
+    <encodingDesc>
+      <refsDecl n="CTS">
+        <cRefPattern matchPattern="([\w\d]+).([\w\d]+)" n="hemistich" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']//tei:div[@n='$2']"/>
+        <cRefPattern matchPattern="([\w\d]+)" n="line" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+      </refsDecl>
+    </encodingDesc>
   </teiHeader>
   <text>
     <body>
