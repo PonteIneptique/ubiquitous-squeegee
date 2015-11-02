@@ -9,7 +9,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <titleStmt>
         <title>&#13;قصیدهٔ شمارهٔ ۱ - در مدح علاء الدین ابوعلی الحسن الشریف</title>
       </titleStmt>
-      <publicationStmt>Persian Digtal Libary (Beta)</publicationStmt>
+      <publicationStmt>
+        <publisher>Persian Digtal Libary (Beta)</publisher>
+      </publicationStmt>
       <sourceDesc>Persian Digital Libary (PDL) texts were sourced(with permission) from the html files of the Ganjoor corpus(2015), and were cleaned, edited, and revised by the Roshan Institute Persian Digital Humanities team at the University of Maryland College Park<source><site>http://ganjoor.net/</site><url>http://ganjoor.net/anvari/divan-anvari/ghaside-anvari/sh1/</url><id>post-15910</id></source></sourceDesc>
     </fileDesc>
     <refsDecl n="CTS">
