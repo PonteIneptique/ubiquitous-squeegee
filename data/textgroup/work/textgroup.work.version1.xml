@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>&#13;قصیدهٔ شمارهٔ ۱ - در مدح علاء الدین ابوعلی الحسن الشریف</title>
+      </titleStmt>
+      <publicationStmt>Persian Digtal Libary (Beta)</publicationStmt>
+      <sourceDesc>Persian Digital Libary (PDL) texts were sourced(with permission) from the html files of the Ganjoor corpus(2015), and were cleaned, edited, and revised by the Roshan Institute Persian Digital Humanities team at the University of Maryland College Park<source><site>http://ganjoor.net/</site><url>http://ganjoor.net/anvari/divan-anvari/ghaside-anvari/sh1/</url><id>post-15910</id></source></sourceDesc>
+    </fileDesc>
+    <refsDecl n="CTS">
+      <cRefPattern matchPattern="(.+).(.+)" n="hemistich" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n=&quot;$1&quot;]//tei:1[@n=&quot;$2&quot;]"/>
+      <cRefPattern matchPattern="(.+)" n="line" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n=&quot;$1&quot;])"/>
+    </refsDecl>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="title" type="title">&#13;
+قصیدهٔ شمارهٔ ۱ - در مدح علاء الدین ابوعلی الحسن الشریف</div>
+      <div n="1" type="line">
+        <div n="a" type="hemistich">سپهر رفعت و کوه وقار و بحر سخا</div>
+        <div n="b" type="hemistich">علاء دین که سپهریست از سنا و علا</div>
+      </div>
+      <div n="2" type="line">
+        <div n="a" type="hemistich">خلاصهٔ همه اولاد خاندان نظام</div>
+        <div n="b" type="hemistich">خلاصهٔ به حقیقت خلاصهٔ به سزا</div>
+      </div>
+      <div n="3" type="line">
+        <div n="a" type="hemistich">نظام داد مقامات ملک را به سخن</div>
+        <div n="b" type="hemistich">چنانکه کار مقیمان خاک را به سخا</div>
+      </div>
+      <div n="4" type="line">
+        <div n="a" type="hemistich">خدایگان وزیران که در مراتب قدر</div>
+        <div n="b" type="hemistich">برش سپهر بود چون بر سپهر سها</div>
+      </div>
+      <div n="5" type="line">
+        <div n="a" type="hemistich">شکسته طاعت او قامت صبی و مسن</div>
+        <div n="b" type="hemistich">ببسته قدرت او گردن صباح و مسا</div>
+      </div>
+      <div n="6" type="line">
+        <div n="a" type="hemistich">سخن ز سر قدر برکشد به جذب ضمیر</div>
+        <div n="b" type="hemistich">درو نه رنگ صواب آمده نه بوی خطا</div>
+      </div>
+      <div n="7" type="line">
+        <div n="a" type="hemistich">ز باد صولت او خاک خواهد استعفا</div>
+        <div n="b" type="hemistich">ز تف هیبت او آب گیرد استسقا</div>
+      </div>
+      <div n="8" type="line">
+        <div n="a" type="hemistich">نهد رضا و خلافش اساس کون و فساد</div>
+        <div n="b" type="hemistich">دهد عتاب و نوازش نشان خوف و رجا</div>
+      </div>
+      <div n="9" type="line">
+        <div n="a" type="hemistich">اگر نه واسطهٔ عقد عالم او بودی</div>
+        <div n="b" type="hemistich">چه بود فایده در عقد آدم و حوا</div>
+      </div>
+      <div n="10" type="line">
+        <div n="a" type="hemistich">زه ای رکاب ثبات ترا درنگ زمین</div>
+        <div n="b" type="hemistich">زه ای عنان سخای ترا شتاب صبا</div>
+      </div>
+      <div n="11" type="line">
+        <div n="a" type="hemistich">به درگه تو فلک را گذر به پای ادب</div>
+        <div n="b" type="hemistich">به جانب تو قضا را نظر به عین رضا</div>
+      </div>
+      <div n="12" type="line">
+        <div n="a" type="hemistich">به زیر سایهٔ عدل تو فتنها پنهان</div>
+        <div n="b" type="hemistich">به پیش دیدهٔ وهم تو رازها پیدا</div>
+      </div>
+      <div n="13" type="line">
+        <div n="a" type="hemistich">نواهی تو ببندد همی گذار قدر</div>
+        <div n="b" type="hemistich">اوامر تو بتابد همی عنان قضا</div>
+      </div>
+      <div n="14" type="line">
+        <div n="a" type="hemistich">تو اصل دادن و دادی چو حرف اصل کلام</div>
+        <div n="b" type="hemistich">تو اصل دانش و دینی چو صوت اصل صدا</div>
+      </div>
+      <div n="15" type="line">
+        <div n="a" type="hemistich">ز رشک طبع تو دارد مزاج دریا تب</div>
+        <div n="b" type="hemistich">گمان مبر که ز موج است لرزه بر دریا</div>
+      </div>
+      <div n="16" type="line">
+        <div n="a" type="hemistich">صدف که دم نزند دانی از چه خاصیت است</div>
+        <div n="b" type="hemistich">ز شرم نطق تو وز رشک لؤلؤی لالا</div>
+      </div>
+      <div n="17" type="line">
+        <div n="a" type="hemistich">ز نور رای تو روشن شده است رای سپهر</div>
+        <div n="b" type="hemistich">وگرنه کی رودی آفتاب جز به عصا</div>
+      </div>
+      <div n="18" type="line">
+        <div n="a" type="hemistich">تو آن کسی که ز باران فتح باب کفت</div>
+        <div n="b" type="hemistich">مزاج سنگ شود مستعد نشو و نما</div>
+      </div>
+      <div n="19" type="line">
+        <div n="a" type="hemistich">تویی که گر سخطت ابر ژاله بار شود</div>
+        <div n="b" type="hemistich">اجل برون نتواند شدن ز موج فنا</div>
+      </div>
+      <div n="20" type="line">
+        <div n="a" type="hemistich">به صد قران بنزاید یکی نتیجه چو تو</div>
+        <div n="b" type="hemistich">ز امتزاج چهار امهات و هفت آبا</div>
+      </div>
+      <div n="21" type="line">
+        <div n="a" type="hemistich">به سعد و نحس فلک زان رضا دهند که او</div>
+        <div n="b" type="hemistich">به خدمت تو کمر بسته دارد از جوزا</div>
+      </div>
+      <div n="22" type="line">
+        <div n="a" type="hemistich">تبارک‌الله از آن آب‌سیر آتش‌فعل</div>
+        <div n="b" type="hemistich">که با رکاب تو خاکست و با عنانت هوا</div>
+      </div>
+      <div n="23" type="line">
+        <div n="a" type="hemistich">به شکل آب رود چون فرو شود به نشیب</div>
+        <div n="b" type="hemistich">به سیر باد رود چون برآید از بالا</div>
+      </div>
+      <div n="24" type="line">
+        <div n="a" type="hemistich">زمردین سمش اندر وغا به قوت جذب</div>
+        <div n="b" type="hemistich">ز دیده مهرهٔ افعی برون کشد ز قفا</div>
+      </div>
+      <div n="25" type="line">
+        <div n="a" type="hemistich">مگر به سایهٔ او برنشاندش تقدیر</div>
+        <div n="b" type="hemistich">وگرنه کی به غبارش رسد سوار ذکا</div>
+      </div>
+      <div n="26" type="line">
+        <div n="a" type="hemistich">به دخل و خرج عیاری که نعلش انگیزد</div>
+        <div n="b" type="hemistich">کند ز صحرا کوه و کند ز که صحرا</div>
+      </div>
+      <div n="27" type="line">
+        <div n="a" type="hemistich">زمانه سیری کامروزش ار برانگیزی</div>
+        <div n="b" type="hemistich">به عالمی بردت کاندرو بود فردا</div>
+      </div>
+      <div n="28" type="line">
+        <div n="a" type="hemistich">بزرگوارا من بنده گرچه مدتهاست</div>
+        <div n="b" type="hemistich">که بازماندم از اقبال خدمت تو جدا</div>
+      </div>
+      <div n="29" type="line">
+        <div n="a" type="hemistich">جدا نبود زمانی زبان من ز ثنات</div>
+        <div n="b" type="hemistich">چه باخواص و عوام و چه در خلا و ملا</div>
+      </div>
+      <div n="30" type="line">
+        <div n="a" type="hemistich">به نعت هرکه سخن رانده‌ام فزون آمد</div>
+        <div n="b" type="hemistich">همم مدیح ز اندازه هم طمع ز عطا</div>
+      </div>
+      <div n="31" type="line">
+        <div n="a" type="hemistich">مگر به مدح تو کز غایت کمال و بهات</div>
+        <div n="b" type="hemistich">چنانک خواست دلم خاطرم نکرد وفا</div>
+      </div>
+      <div n="32" type="line">
+        <div n="a" type="hemistich">سخن ببست مرا اندرین قصیده ز عجز</div>
+        <div n="b" type="hemistich">همی چه گویم بس نیست این قصیده گوا</div>
+      </div>
+      <div n="33" type="line">
+        <div n="a" type="hemistich">اگر به مدح و ثنا هرکسی ستوده شود</div>
+        <div n="b" type="hemistich">تو آن کسی که ستوده به تست مدح و ثنا</div>
+      </div>
+      <div n="34" type="line">
+        <div n="a" type="hemistich">به ناسزا چه برم بیش ازین مدایح خویش</div>
+        <div n="b" type="hemistich">سزای مدح تویی وتراست مدح سزا</div>
+      </div>
+      <div n="35" type="line">
+        <div n="a" type="hemistich">به شبه و شکل تو گر دیگران برون آیند</div>
+        <div n="b" type="hemistich">زمانه نیک شناسد زمرد از مینا</div>
+      </div>
+      <div n="36" type="line">
+        <div n="a" type="hemistich">خدای داند کز خجلت تو با دل ریش</div>
+        <div n="b" type="hemistich">که تا به مقطع شعر آمدستم از مبدا</div>
+      </div>
+      <div n="37" type="line">
+        <div n="a" type="hemistich">همی چه گفتم گفتم که زیره و کرمان</div>
+        <div n="b" type="hemistich">همی چه گفتم گفتم که بصره و خرما</div>
+      </div>
+      <div n="38" type="line">
+        <div n="a" type="hemistich">همیشه تا که بود در بقای عالم کون</div>
+        <div n="b" type="hemistich">امید عاقبت اندر حساب بیم و بلا</div>
+      </div>
+      <div n="39" type="line">
+        <div n="a" type="hemistich">حساب عمر تو در عافیت چنان بادا</div>
+        <div n="b" type="hemistich">که چون ابد ز کمیت برون شود احصا</div>
+      </div>
+      <div n="40" type="line">
+        <div n="a" type="hemistich">به هرچه گویی قول تو بر زمانه روان</div>
+        <div n="b" type="hemistich">به هرچه خواهی حکم تو بر ستاره روا</div>
+      </div>
+      <div n="41" type="line">
+        <div n="a" type="hemistich">بر استقامت حال تو بر بسیط زمین</div>
+        <div n="b" type="hemistich">بر آسمان کف کف الخضیب کرده دعا</div>
+      </div>
+    </body>
+  </text>
+</TEI>
