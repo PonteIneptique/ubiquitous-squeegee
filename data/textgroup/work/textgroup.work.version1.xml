@@ -19,7 +19,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           <bibl>
             <pubPlace >Ganjoor corpus</pubPlace>
             <ptr target="http://ganjoor.net" />
-            <biblScope type="pp">post-15910<ptr target="http://ganjoor.net/anvari/divan-anvari/ghaside-anvari/sh1/post-15910"/></biblScope>
+            <biblScope unit="part">post-15910<ptr target="http://ganjoor.net/anvari/divan-anvari/ghaside-anvari/sh1/post-15910"/></biblScope>
           </bibl>
         </p>
         
